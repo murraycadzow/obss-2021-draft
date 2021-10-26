@@ -1,7 +1,7 @@
 title: Bioinformatics Spring School 2021
 email: carpentries@otago.ac.nz
-baseurl: "/bioinformatics-spring-school-2021/"
-url: "https://otagocarpentries.github.io"
+baseurl: "/obss-2021-draft/"
+url: "https://murraycadzow.github.io"
 theme: jekyll-theme-leap-day
 
-day1_url: "day1.html"
+
