@@ -7,7 +7,7 @@ Time | What
 10:45 | Break|
 11:10 | Introduction to BASH
 12:15 | Lunch
-13:00 | Keynote - Phil Wilcox
+13:00 | Keynote
 14:00 | Introduction to BASH cont.
 14:45 | Break
 15:00 | Introduction to R
