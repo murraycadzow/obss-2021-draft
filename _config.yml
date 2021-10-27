@@ -4,5 +4,5 @@ baseurl: "/obss-2021-draft/"
 url: "https://murraycadzow.github.io"
 theme: jekyll-theme-leap-day
 
-workshopPrefix: "2021-obss-"
+workshopPrefix: "/2021-obss-"
 
