@@ -11,4 +11,4 @@ From the current guidelines if you are travelling from outside of Dunedin:
 As at 21st November:
 
 - Current location is Alert level 1 or 2 = come along
-- Current location is Alert level 3 or 4 = stay home as interegional travel isn't allowed
+- Current location is Alert level 3 or 4 = stay home as inter-regional travel isn't allowed
